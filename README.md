@@ -41,7 +41,7 @@ The following Python libraries were utilized in this project:
 ---
 
 ## Conclusion  
-This project provided valuable insights into consumer behavior and sales performance during the Diwali season. These findings can be used to optimize marketing strategies, inventory planning, and business operations for future festive sales.  
+Married women age group 26-35 yrs from UP, Maharastra and Karnataka working in IT, Healthcare and Aviation are more likely to buy products from Food, Clothing and Electronics category.  
 
 ---
 
